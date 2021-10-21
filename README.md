@@ -1,23 +1,14 @@
-# Labs
+### MS SQL e Dot Net
 
-## MS SQL e Dot Net
-
-### 028_CriandoUmGerenciadorDeEspa-onavesDoStarWarsComSQLServerDotNET
+#### 028_CriandoUmGerenciadorDeEspa-onavesDoStarWarsComSQLServerDotNET
 
 Criando um gerenciador de espaçonaves do star wars com SQL Server + .NET
 
 ### DESCRIÇÃO
 Neste desafio o expert cria um gerenciador de espaço naves do Star Wars modelando um banco de dados em SQL Server. Sua missão será entregar os scripts de criação das tabelas que compõem a estrutura desse banco de dados. Nesse sentido, você pode organizar esse repositório da forma como preferir... Dica: organizar tudo em seu README.md pode ser uma alternativa bem rápida e efetiva, principalmente porque o GitHub provê uma interface bem simples e intuitiva para isso. Bons estudos!
 
-[Link Original](https://web.digitalinnovation.one/lab/criando-um-gerenciador-de-espaconaves-do-star-wars-com-sql-server-net/learning/fe0d2131-0446-4bf0-b158-0e7be8136a6c)
+<a href="https://www.linkedin.com/in/mateus-macedo-937a32163/">
+ <img style="border-radius:50%" width="100px; "src="https://avatars.githubusercontent.com/u/63172367?s=460&u=11fd26ea8a7f5663d7707d7ef254e4f8bfca1b05&v=4"/>
+ <p>Mateus Macedo</p>
+</a>
 
-- Full-Stack Intermediário
-
-#### ESPECIALISTA
-##### Thiago Campos de Oliveira
-Desenvolvedor .Net, Banco Safra S.A.
-Full-Stack
-Intermediário
-ESPECIALISTA
-
-https://web.digitalinnovation.one/lab/criando-um-gerenciador-de-espaconaves-do-star-wars-com-sql-server-net/learning/ea00c81d-96a6-40cf-9baa-fd301c89b79d
